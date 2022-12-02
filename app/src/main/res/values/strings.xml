@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Level 1 Example</string>
+    <string name="answer_label">Answer:</string>
+    <string name="animal_question">What animal is this?</string>
+</resources>
